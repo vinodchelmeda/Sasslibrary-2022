@@ -1,5 +1,0 @@
-steps:
-- task: GitHubRelease@1
-  displayName: 'GitHub release (create)'
-  inputs:
-    gitHubConnection: 'Sass Library'
